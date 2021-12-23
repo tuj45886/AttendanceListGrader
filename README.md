@@ -1,3 +1,3 @@
 # AttendanceListGrader
-##Project Summary
-##Instructions for Use
+## Project Summary
+## Instructions for Use
